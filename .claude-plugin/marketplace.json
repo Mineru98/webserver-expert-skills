@@ -1,0 +1,24 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "webserver-expert",
+  "description": "",
+  "owner": {
+    "name": "Mineru",
+    "email": "mineru@usefullabs.co.kr"
+  },
+  "plugins": [
+    {
+      "name": "webserver-expert",
+      "description": "",
+      "version": "1.0.0",
+      "author": {
+        "name": "Mineru",
+        "email": "mineru@usefullabs.co.kr"
+      },
+      "source": "./",
+      "category": "development",
+      "homepage": "https://github.com/Mineru98/webserver-expert-skills",
+      "tags": ["multi-agent", "orchestration"]
+    }
+  ]
+}

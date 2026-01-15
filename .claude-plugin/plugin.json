@@ -1,0 +1,17 @@
+{
+  "name": "dev-consultant",
+  "version": "1.0.0",
+  "description": "Web application development consulting plugin with specialized agents for requirements gathering, UI/UX design, technical specification, and project planning",
+  "author": {
+    "name": "Mineru",
+    "email": "mineru@usefullabs.co.kr",
+    "url": "https://github.com/Mineru98"
+  },
+  "homepage": "https://github.com/Mineru98/webserver-expert-skills#readme",
+  "repository": "https://github.com/Mineru98/webserver-expert-skills",
+  "license": "GPL-3.0",
+  "keywords": [
+    "multi-agent",
+    "orchestration"
+  ]
+}
